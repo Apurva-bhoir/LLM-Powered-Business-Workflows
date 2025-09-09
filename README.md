@@ -54,3 +54,8 @@ This repository contains mini-projects exploring how **Large Language Models (LL
 - Extend outputs into dashboards/CRM systems  
 - Add support for multiple models (OpenAI, Cohere, etc.) 
 
+---
+
+## Author
+##### Apurva Bhoir
+This is a personal original project designed, coded, and created by me.
