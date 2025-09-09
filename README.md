@@ -57,5 +57,5 @@ This repository contains mini-projects exploring how **Large Language Models (LL
 ---
 
 ## Author
-##### Apurva Bhoir
+### Apurva Bhoir
 This is a personal original project designed, coded, and created by me.
