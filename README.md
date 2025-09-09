@@ -55,7 +55,9 @@ This repository contains mini-projects exploring how **Large Language Models (LL
 - Add support for multiple models (OpenAI, Cohere, etc.) 
 
 ---
+## 👤 Developer
+Apurva Bhoir
+--- 
 
-## Author
-### Apurva Bhoir
-This is a personal original project designed, coded, and created by me.
+## 📜 License
+All rights reserved © Apurva Bhoir, 2025.
